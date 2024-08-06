@@ -1,2 +1,2 @@
-# simple_calculator
+# Python_learning
 This repository is for practice.
